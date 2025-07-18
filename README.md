@@ -1,2 +1,0 @@
-# Sign2Speak
-
